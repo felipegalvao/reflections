@@ -1,1 +1,3 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+  When there are many people to contribute to your project. You can also say that as this acts as a backup, it should be always created.
